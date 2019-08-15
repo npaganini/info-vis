@@ -1,7 +1,8 @@
 # makeovermonday
 This repo shows the weekly challenges' information visualization.
 
-#### week 32
-Screen Shot 2019-08-13 at 12.11.07.png
+### Weekly Uploads!
 
-#### week 33
+- [week 32](https://github.com/npaganini/infovis/blob/master/makeovermonday/Screen%20Shot%202019-08-13%20at%2012.11.07.png)
+
+
