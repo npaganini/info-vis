@@ -6,4 +6,10 @@ This repo shows the weekly challenges' information visualization.
 - [week 32](https://github.com/npaganini/infovis/blob/master/makeovermonday/Screen%20Shot%202019-08-13%20at%2012.11.07.png)
 - [week 33](https://github.com/npaganini/infovis/blob/master/makeovermonday/Screen%20Shot%202019-08-20%20at%2010.57.06.png)
 - [week 34](https://github.com/npaganini/infovis/blob/master/makeovermonday/Screen%20Shot%202019-08-27%20at%2011.10.53.png)
+- [week 35](https://github.com/npaganini/infovis/blob/master/makeovermonday/Screen%20Shot.png)
+- [week 36](https://github.com/npaganini/infovis/blob/master/makeovermonday/Screen%20Shot.png)
+- [week 37](https://github.com/npaganini/infovis/blob/master/makeovermonday/Screen%20Shot.png)
+- [week 38](https://github.com/npaganini/infovis/blob/master/makeovermonday/Screen%20Shot.png)
+- [week 39](https://github.com/npaganini/infovis/blob/master/makeovermonday/Screen%20Shot.png)
+- [week 40](https://github.com/npaganini/infovis/blob/master/makeovermonday/Screen%20Shot.png)
 
